@@ -1,0 +1,3 @@
+# Mercury
+
+MAPS_API_KEY=AIzaSyBLQq1panAxsJATZTUBzhydyVRvlLrsSuw
